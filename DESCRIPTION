@@ -1,0 +1,19 @@
+Package: rankmodelr
+Title: Penalized multistage models for ordered data
+Version: 0.9
+Authors@R: 
+    c(
+    person(given = "Philip", family = "Boonstra", role = c("aut"), email = "philb@umich.edu"),
+    person(given = "Michael", family = "Kleinsasser", role = c("cre"), email = "mkleinsa@umich.edu"))
+Description: R package for Boonstra, Philip S. and Krauss, John C., "Inferring a 
+    consensus problem list using penalized multistage models for ordered data" 
+    (March 2019) The University of Michigan Department of Biostatistics Working 
+    Paper Series. <doi:10.5281/zenodo.2598568>
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Biarch: true
+Depends: 
+    R (>= 3.4.0)
+Imports: 
+RoxygenNote: 6.1.1.9000
