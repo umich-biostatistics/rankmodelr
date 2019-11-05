@@ -15,5 +15,6 @@ LazyData: true
 Biarch: true
 Depends: 
     R (>= 3.4.0)
-Imports: 
 RoxygenNote: 6.1.1.9000
+Suggests: 
+    testthat
